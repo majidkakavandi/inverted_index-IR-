@@ -1,0 +1,17 @@
+{
+  "name": "inverted_index",
+  "version": "1.0.0",
+  "description": "",
+  "main": "inverted_index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "author": "majid kakavandi",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "remove-stopwords": "^1.0.3",
+    "stem-porter": "0.0.1"
+  }
+}

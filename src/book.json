@@ -1,0 +1,18 @@
+[
+   {
+        "DocID":0,
+        "context":"I am a software engineer in razi university." 
+   },
+   {
+        "DocID":1,
+        "context":"Before microprocessors, small computers had been built using racks of circuit boards with many medium- and small-scale integrated circuits. Microprocessors combined this into one or a few large-scale ICs"
+   },
+   {
+        "DocID":2,
+        "context":"A microprocessor is a computer processor that incorporates the functions of a central processing unit on a single integrated circuit IC,1 or sometimes up to integrated circuits.The microprocessor is a multipurpose, clock driven, register based, digital integrated circuit that accepts binary data as input, processes it according to instructions stored in its memory and provides results also in binary form as output. Microprocessors contain both combinational logic and sequential digital logic."
+   }
+   ,{
+        "DocID":3,
+        "context":"The integration of a whole CPU onto a single or a few integrated circuits greatly reduced the cost of processing power. Integrated circuit processors are produced in large numbers by highly automated MOS fabrication processes, resulting in a low unit price."
+   }
+]
